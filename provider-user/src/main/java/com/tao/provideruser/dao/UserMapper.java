@@ -9,7 +9,7 @@ import org.apache.ibatis.annotations.Param;
  *
  * @author yangtao
  * @version 0.0.1
- * @date 2019/3/23
+ * @since 2019/3/23
  */
 @Mapper
 public interface UserMapper {

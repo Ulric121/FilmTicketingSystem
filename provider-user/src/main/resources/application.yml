@@ -12,7 +12,6 @@ mybatis:
   mapper-locations: classpath:mapping/*.xml
   type-aliases-package: com.tao.provideruser.entity
 
-
 logging:
   level:
     com:

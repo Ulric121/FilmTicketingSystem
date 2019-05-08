@@ -7,7 +7,7 @@ import java.math.BigDecimal;
  *
  * @author yangtao
  * @version 0.0.1
- * @date 2019/3/23
+ * @since 2019/3/23
  */
 public class User {
 
